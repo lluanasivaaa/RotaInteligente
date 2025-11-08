@@ -1,0 +1,12 @@
+origem,destino,peso
+Centro,ZonaNorte,3
+Centro,ZonaSul,4
+ZonaNorte,ZonaLeste,6
+ZonaNorte,ZonaOeste,7
+ZonaSul,ZonaLeste,5
+ZonaSul,ZonaOeste,8
+ZonaLeste,Centro,2
+ZonaOeste,BairroIndustrial,1
+Centro,BairroComercial,2
+BairroComercial,ZonaSul,3
+BairroIndustrial,ZonaNorte,4
